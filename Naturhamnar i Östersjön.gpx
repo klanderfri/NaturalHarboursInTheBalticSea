@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Notepad++" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd">
+  <wpt lat="58.247434" lon="16.935794">
+    <time>2026-08-17T15:55:25Z</time>
+    <name>Sässnippan</name>
+    <desc>Liten vik med naturliga vågbrytare. Lämplig för vindar i den nordvästliga kvadranten. Öppen för vindar från nordöst och sydväst. Angör söderifrån, men se upp för 2,0-grundet och bränningen söder om Lilla Säsholmen. Släpp ankaret mitt i fladan mellan holmarna och sikta sen mot lämpligt träd. Vattnet är djupt fram till stranden.</desc>
+    <sym>Anchor</sym>
+    <type>WPT</type>
+  </wpt>
+</gpx>
